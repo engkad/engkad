@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syntapse
-- 👀 I’m interested in rocketry and computers
-- 🌱 I’m currently learning several languages including python, C# and C++
+- 👀 I’m interested in rocketry, computers, and homelabbing
+- 🌱 I’m currently learning several languages including Python, C# and C++
 
 <!---
 syntapse/syntapse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

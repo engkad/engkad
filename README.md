@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syntapse
+- 👋 Hi, I’m @engkad
 - 👀 I’m interested in rocketry, computers, and homelabbing
 - 🌱 I’m currently learning several languages including Python, C# and C++
 
